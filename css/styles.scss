@@ -70,3 +70,17 @@ body {
     position: absolute;
     bottom:0px;
 }
+
+.modal-header {
+    background-color: $background-dark;
+    .modal-title {
+        color: $lt-gray;
+    }
+    button {
+        color: $lt-gray;
+    }
+}
+
+.modal-body {
+    background-color: $background-pale;
+}
