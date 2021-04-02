@@ -25,4 +25,4 @@ This is a very handful course, which I enjoyed a lot from learning.
 
 #### Deployed Website
 
-https://qhe231.github.io/conFusion/
+https://qhe231.github.io/confusionBootstrap/
